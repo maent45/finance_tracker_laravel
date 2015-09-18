@@ -25,8 +25,20 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.1923075">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="42" selection-end-column="7" />
+            <state vertical-scroll-proportion="-16.961538">
+              <caret line="33" column="83" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="83" />
+              <folding>
+                <element signature="e#6#92#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminArea.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminArea.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.384615">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding>
                 <element signature="e#6#92#0#PHP" expanded="true" />
               </folding>
@@ -37,33 +49,48 @@
       <file leaf-file-name="addUser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addUser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.692307">
-              <caret line="27" column="77" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="77" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#6#92#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createUser.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.115385">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#7#93#0#PHP" expanded="true" />
+                <marker date="1442196324613" expanded="true" signature="653:704" placeholder="SELECT name,..users..." />
+                <marker date="1442196324613" expanded="true" signature="653:705" placeholder="SELECT name,..users..." />
+                <marker date="1442196324613" expanded="true" signature="653:729" placeholder="SELECT name,..users..." />
+                <marker date="1442196324613" expanded="true" signature="653:730" placeholder="SELECT name,..users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createUser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/createUser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6423562">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state vertical-scroll-proportion="-3.2307692">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="48" />
               <folding>
                 <element signature="e#6#92#0#PHP" expanded="true" />
-                <marker date="1442158656515" expanded="true" signature="476:585" placeholder="insert into ..." />
+                <marker date="1442193009650" expanded="true" signature="474:595" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dbConnect.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dbConnect.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dbConnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154">
+            <state vertical-scroll-proportion="0.21458626">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="65" />
               <folding>
                 <element signature="e#6#92#0#PHP" expanded="true" />
@@ -85,10 +112,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/dbConnect.php" />
-        <option value="$PROJECT_DIR$/addUser.php" />
         <option value="$PROJECT_DIR$/createUser.php" />
+        <option value="$PROJECT_DIR$/addUser.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/Admin.php" />
+        <option value="$PROJECT_DIR$/adminArea.php" />
+        <option value="$PROJECT_DIR$/authenticateUserLogin.php" />
       </list>
     </option>
   </component>
@@ -129,6 +159,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,12 +181,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -249,18 +280,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1923075">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="42" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="83" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="83" />
           <folding>
             <element signature="e#6#92#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbConnect.php">
+    <entry file="file://$PROJECT_DIR$/authenticateUserLogin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminArea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding>
             <element signature="e#6#92#0#PHP" expanded="true" />
           </folding>
@@ -269,22 +310,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/addUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.692307">
-          <caret line="27" column="77" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#6#92#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#7#93#0#PHP" expanded="true" />
+            <marker date="1442196324613" expanded="true" signature="653:704" placeholder="SELECT name,..users..." />
+            <marker date="1442196324613" expanded="true" signature="653:705" placeholder="SELECT name,..users..." />
+            <marker date="1442196324613" expanded="true" signature="653:729" placeholder="SELECT name,..users..." />
+            <marker date="1442196324613" expanded="true" signature="653:730" placeholder="SELECT name,..users..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/createUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6423562">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="48" />
           <folding>
             <element signature="e#6#92#0#PHP" expanded="true" />
-            <marker date="1442158656515" expanded="true" signature="476:585" placeholder="insert into ..." />
+            <marker date="1442193009650" expanded="true" signature="474:595" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authenticateUserLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40532959">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.961538">
+          <caret line="33" column="83" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="83" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminArea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.115385">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#7#93#0#PHP" expanded="true" />
+            <marker date="1442196324613" expanded="true" signature="653:704" placeholder="SELECT name,..users..." />
+            <marker date="1442196324613" expanded="true" signature="653:705" placeholder="SELECT name,..users..." />
+            <marker date="1442196324613" expanded="true" signature="653:729" placeholder="SELECT name,..users..." />
+            <marker date="1442196324613" expanded="true" signature="653:730" placeholder="SELECT name,..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2307692">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+            <marker date="1442193009650" expanded="true" signature="474:595" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21458626">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

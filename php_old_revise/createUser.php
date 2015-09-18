@@ -14,11 +14,11 @@ $db_connection = pg_connect($connection_string);
 if(isset($_POST['submitNewUserInfo'])){
 
     $userID = ($_POST["userId"]);
-    $userfname = pg_escape_string($_POST["userFName"]);
-    $userlname = pg_escape_string($_POST["userLName"]);
+    $user_name = pg_escape_string($_POST["userName"]);
+    $user_pass = pg_escape_string($_POST["userPass"]);
 
     //add user insert query
-    $addUserQuery = "insert into users (id, fname, lname) values ('" . $userID . "' , '" . $userfname . "' , '" . $userlname . "')";
+    $addUserQuery = "insert into users (id, user_name, user_password) values ('" . $userID . "' , '" . $user_name . "' , '" . $user_pass . "')";
 
     //pass the query
     $result = pg_query($db_connection, $addUserQuery);

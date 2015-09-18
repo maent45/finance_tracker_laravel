@@ -24,6 +24,7 @@ include("dbConnect.php");
 <!-- login form -->
 <div class="container">
     <div class="col-lg-12" style="margin-top: 5%;">
+        <h1>Login</h1>
         <div class="form-group">
             <label for="usr">Email:</label>
             <input type="text" class="form-control" id="usr" name="userEmail">

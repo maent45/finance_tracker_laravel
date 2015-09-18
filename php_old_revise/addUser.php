@@ -29,11 +29,11 @@
             </div>
             <div class="form-group">
                 <label for="usr">User First Name:</label>
-                <input type="text" class="form-control" id="usr" name="userFName">
+                <input type="text" class="form-control" name="userName">
             </div>
             <div class="form-group">
                 <label for="pwd">User Last Name:</label>
-                <input type="password" class="form-control" id="pwd" name="userLName">
+                <input type="password" class="form-control" name="userPass">
             </div>
             <button class="btn btn-info" type="submit" name="submitNewUserInfo">Add User</button>
         </form>
